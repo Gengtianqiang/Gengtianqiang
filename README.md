@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Yharim
 
-💻 Embedded Developer & Robot System Engineer | 🚀 嵌入式实践者 | 🎮 游戏爱好者
+💻 Embedded Developer & Robot System Engineer | 🚀 Embedded Practitioner | 🎮 Game Enthusiast
 
-<!-- 技术栈徽章（保留原居中样式，替换为新技术栈，配色/Logo适配嵌入式领域） -->
+<!-- Tech stack badges (keep original centered layout, updated for embedded system with matching colors/logos) -->
 <div align="center" style="letter-spacing: 2px; margin: 20px 0;">
   <img src="https://img.shields.io/badge/-STM32-0099CC?style=flat-square&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/-FreeRTOS-0071C5?style=flat-square&logo=freebsd&logoColor=white" />
@@ -11,15 +11,14 @@
   <img src="https://img.shields.io/badge/-DSP-8E44AD?style=flat-square&logo=texas-instruments&logoColor=white" />
 </div>
 
-## 📌 关于我
-- 🔭 目前专注于：**STM32+FreeRTOS 嵌入式软件开发、ROS 机器人系统集成**
-- 🌱 学习中：**嵌入式Linux 编程、DSP 数字信号处理优化、ROS2 生态开发**
-- 💬 擅长：**嵌入式底层驱动开发、实时操作系统移植、ARM架构下软硬件联调**
-- ⚡ 趣味：**Steam 游戏爱好者**
+## 📌 About Me
+- 🔭 Current Focus: **STM32 + FreeRTOS Embedded Software Development, ROS Robot System Integration**
+- 🌱 Learning: **Embedded Linux Programming, DSP Digital Signal Processing Optimization, ROS2 Ecosystem Development**
+- 💬 Expertise: **Embedded Low-level Driver Development, RTOS Porting, Software-Hardware Co-design on ARM Architecture**
+- ⚡ Hobbies: **Steam Game Enthusiast**
 
-## 🎨 contribution
-<!-- GitHub 贡献图，替换用户名即可 -->
+## 🎨 Contribution
+<!-- GitHub contribution graph, replace with your username -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gengtianqiang&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gengtianqiang&theme=react-dark&hide_border=true" alt="Contribution Graph" style="width: 100%;"/>
 </div>
-。
