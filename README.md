@@ -24,7 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gengtianqiang&layout=compact&theme=radical" alt="常用语言" style="width: 48%;"/>
 </div>
 
-## 🎨 趣味数据
+## 🎨 contribution
 <!-- GitHub 贡献图，替换用户名即可 -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gengtianqiang&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
