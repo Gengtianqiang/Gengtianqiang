@@ -1,14 +1,10 @@
-# 👋 Hi, I'm Yharim
+# Yharim|耿帅哥
 
-💻 Embedded Developer & Robot System Engineer | 🚀 Embedded Practitioner | 🎮 Game Enthusiast
-
+💻 嵌入式开发者
 <!-- Tech stack badges (keep original centered layout, updated for embedded system with matching colors/logos) -->
-<div align="center" style="letter-spacing: 2px; margin: 20px 0;">
-  <img src="https://img.shields.io/badge/-STM32-0099CC?style=flat-square&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/-FreeRTOS-0071C5?style=flat-square&logo=freebsd&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/-DSP-8E44AD?style=flat-square&logo=texas-instruments&logoColor=white" />
+<div align="center">
+  <img src="https://img.shields.io/badge/SoC-ARM%20%7C%20DSP%20%7C%20FPGA-0091BD?style=flat-square&logo=arm&logoColor=white" alt="SoC" />
+  <img src="https://img.shields.io/badge/OS-Linux%20%7C%20FreeRTOS-FCC624?style=flat-square&logo=linux&logoColor=black" alt="OS" />
 </div>
 
 ## 📌 About Me
